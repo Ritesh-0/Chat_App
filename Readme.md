@@ -129,7 +129,7 @@ npm start
 
 ## 👨‍💼 Author
 
-- **Your Name** – [@yourgithub](https://github.com/yourgithub)
+- **Your Name** – [@yourgithub](https://github.com/Ritesh-0)
 
 ---
 
